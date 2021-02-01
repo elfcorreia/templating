@@ -1,0 +1,19 @@
+{
+    "name": "elfcorreia/templating",
+    "description": "A powerful micro templating PHP engine",
+    "type": "library",
+    "license": "GNU v3",
+    "authors": [
+        {
+            "name": "Emerson C. Lima",
+            "email": "elfcorreia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "inc/templating.php"
+        ]
+    }
+}
