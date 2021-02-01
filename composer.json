@@ -2,7 +2,7 @@
     "name": "elfcorreia/templating",
     "description": "A powerful micro templating PHP engine",
     "type": "library",
-    "license": "GNU v3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Emerson C. Lima",
